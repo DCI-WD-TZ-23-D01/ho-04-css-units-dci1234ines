@@ -1,15 +1,29 @@
 .saber .blade {
-
-}
+    background-color: gray;
+    height: 400px;
+    width: 30px;
+    border-top-right-radius:50%;
+    border-top-left-radius:50%;
+  }
 
 .saber .guard {
-    
-}
+     background-color: yellow;
+    height: 25px;
+    width: 40px;
+    }
 
 .saber .handle {
-    
+    background-color: red;
+    height: 140px;
+    width: 30px; 
 }
 
 .saber .pommel {
+    background-color: orange;
+    height: 30px;
+    width: 30px;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    
     
 }
